@@ -56,7 +56,7 @@ To create an ARC200 pool on Nomadex, follow these steps:
 3. Select the token for which you want to create pool.
 4. Click on the "Create VOI/[SYMBOL] Pool" button.
 5. Click on the "Create Pool" button.
-5. Confirm the transactions in your wallet (3x).
+6. Confirm the transactions in your wallet (2x).
 
 ### 7. Create Limit Order
 
